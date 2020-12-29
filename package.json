@@ -1,0 +1,25 @@
+{
+  "name": "disbot-ojt-yomiagechan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KomattaSorata/disbot-ojt-yomiagechan.git"
+  },
+  "author": "@KomattaSorata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KomattaSorata/disbot-ojt-yomiagechan/issues"
+  },
+  "homepage": "https://github.com/KomattaSorata/disbot-ojt-yomiagechan#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.8.2",
+    "node-openjtalk": "^1.1.1"
+  }
+}
